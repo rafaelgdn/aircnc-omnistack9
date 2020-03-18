@@ -1,4 +1,4 @@
-# GoBarber - Built with NodeJS, ReactJS and React Native.
+# AirCnC - Built with NodeJS, ReactJS and React Native.
 
 AirCnC, Design replicado para fins de estudos. Foi criada durante a semana OmniStack 9.0 e
 como esse projeto nunca vai entrar em produção, eu preferi colocar o backend, front web e mobile todos no mesmo repositorio.
